@@ -1,0 +1,32 @@
+
+body {
+        position: relative;
+        color: #F3EFE0;
+        background-color: #4d4b4a  ; 
+        background: url(../img/demo-1-bg.jpg) center center ;
+        font-family: 'Syncopate', sans-serif;
+     }
+
+.bg{
+  padding-top: 80px;
+  padding-bottom: 150px; 
+}
+
+h2{
+        font-family: 'Syncopate', sans-serif;
+        color: #54C2BF;
+      }
+.textsh{
+        font-family: 'Coming Soon', cursive;
+}
+.pad{
+  padding-top: 20px;
+}
+ul li{
+  padding-bottom: 10px;
+}
+      }
+hr{
+        max-width:10px;
+        
+      }
